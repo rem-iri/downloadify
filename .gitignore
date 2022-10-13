@@ -1,0 +1,5 @@
+node_modules/
+downloaded/
+client/build/
+/.env
+yt-dl/yt-dlp.exe
